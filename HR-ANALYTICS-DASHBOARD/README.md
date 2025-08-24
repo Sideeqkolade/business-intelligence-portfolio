@@ -25,7 +25,7 @@ These insights enable HR managers to design **data-driven strategies** for reten
 
 📂 [Download Dataset (CSV)](./HR_Analytics.csv)
 
-📂 [Download Power BI File (PBIX)](https://github.com/YourUsername/YourRepoName/blob/main/dashboard/hr_dashboard.pbix)
+📂 [Download Power BI File (PBIX)](./HR Analytics Dashboard.pbix)
 
 ---
 
