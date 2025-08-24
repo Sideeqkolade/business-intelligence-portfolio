@@ -23,7 +23,7 @@ These insights enable HR managers to design **data-driven strategies** for reten
 - **Employee Data**: Age, Gender, Department, Job Role, Tenure, Salary.  
 - **Attrition Data**: Employees who left, including their demographics, role, and tenure.  
 
-📂 [Download Dataset (CSV)](https://github.com/YourUsername/YourRepoName/blob/main/data/hr_data.csv)
+📂 [Download Dataset (CSV)](./HR_Analytics.csv)
 
 📂 [Download Power BI File (PBIX)](https://github.com/YourUsername/YourRepoName/blob/main/dashboard/hr_dashboard.pbix)
 
