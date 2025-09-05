@@ -23,22 +23,11 @@ These insights enable HR managers to design **data-driven strategies** for reten
 - **Employee Data**: Age, Gender, Department, Job Role, Tenure, Salary.  
 - **Attrition Data**: Employees who left, including their demographics, role, and tenure.  
 
-📂 [Download Dataset (CSV)](./HR_Analytics.csv)
-
-📂 [Download Power BI File (PBIX)](https://github.com/Sideeqkolade/business-intelligence-portfolio/blob/main/HR-ANALYTICS-DASHBOARD/HR%20Analytics%20Dashboard.pbix)
-
----
-
-## 🔹 Modeling Approach
-- Built a **star schema** with Employee, Joiner, and Leaver tables.  
-- Applied **DAX measures** to calculate attrition rate, average tenure, and salary segmentation.  
-
 ---
 
 ## 🔹 Tools & Skills Applied
 - **Power BI**: Dashboard design, interactive visuals, slicers.  
-- **DAX**: Measures for attrition rate, tenure, average age, salary buckets.  
-- **Data Modeling**: Star schema for HR data.  
+- **DAX**: Measures for attrition rate, tenure, average age, salary buckets.    
 - **Data Visualization Best Practices**: Executive summaries at the top, detailed breakdowns below, and intuitive color coding.  
 
 ---
